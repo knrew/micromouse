@@ -1,0 +1,16 @@
+b d 7 9 5 5 5 1 1 5 5 5 3 d 7 b 
+8 5 1 6 9 5 3 a 8 1 5 3 c 1 5 2 
+a 9 6 9 6 b a a a a b c 3 c 3 a 
+a a 9 6 9 6 a a a a c 3 c 3 a a 
+a a a 9 6 9 6 a a c 3 c 3 a a a 
+a a a a 9 2 f a a f 8 3 a 8 2 a 
+8 2 a a a e 9 4 4 3 e a a a a a 
+a a a a c 1 2 9 3 a 9 6 a a 8 2 
+a a a a b a a 8 6 a a b a a a a 
+a 8 2 a a a c 4 5 6 a a a a e a 
+a a a a a c 7 9 3 d 6 a a 8 5 2 
+a a e a c 5 5 2 8 5 5 6 a a f a 
+c 4 3 c 5 5 7 a a d 5 5 6 8 5 2 
+9 3 8 5 5 5 3 a a 9 5 5 5 2 9 2 
+a a c 5 5 5 4 4 2 c 5 5 5 6 a a 
+e c 5 5 5 5 5 5 4 5 5 5 5 5 6 e 
