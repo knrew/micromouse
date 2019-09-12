@@ -4,3 +4,6 @@
 [submodule "mouse_visualizer"]
 	path = mouse_visualizer
 	url = https://github.com/kn-rew/mouse_visualizer.git
+[submodule "micromouse_rs"]
+	path = micromouse_rs
+	url = https://github.com/kn-rew/micromouse_rs.git
