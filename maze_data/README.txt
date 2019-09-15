@@ -1,408 +1,408 @@
 source : https://github.com/micromouseonline/micromouse_maze_tool
-   0 : us97.txt
-   1 : us91.txt
-   2 : at135.txt
-   3 : ijcp02.txt
-   4 : map-v8.txt
-   5 : 86.txt
-   6 : hk91.txt
-   7 : kilkai.txt
-   8 : maze.txt
-   9 : Japan2013eq.txt
-  10 : robotic-2010-finals.txt
-  11 : robotic-2011-follower-heats.txt
-  12 : us88.txt
-  13 : minos08f.txt
-  14 : taiwan-2012-final.txt
-  15 : map-1.txt
-  16 : uk2012f.txt
-  17 : shi.txt
-  18 : us93.txt
-  19 : ocd101.txt
-  20 : shi2.txt
-  21 : uk1992f.txt
-  22 : tricky.txt
-  23 : hitel51.txt
-  24 : uk2010q.txt
-  25 : kor931.txt
-  26 : us82.txt
-  27 : soulu3.txt
-  28 : japan1991.txt
-  29 : vm2.txt
-  30 : ph001.txt
-  31 : test1.txt
-  32 : minos04q.txt
-  33 : minos03f.txt
-  34 : minos02.txt
-  35 : killer.txt
-  36 : euro-58.txt
-  37 : jcp04.txt
-  38 : shikai.txt
-  39 : japan1999f.txt
-  40 : sd3f01.txt
-  41 : japan-9p.txt
-  42 : sing89i.txt
-  43 : shima1.txt
-  44 : japan-2016-eq.txt
-  45 : chubu2017.txt
-  46 : map-4.txt
-  47 : 92bos.txt
-  48 : apec2016.txt
-  49 : japan1999p.txt
-  50 : japan-2016-ef.txt
-  51 : kor891.txt
-  52 : us02.txt
-  53 : APEC2012.txt
-  54 : ph-three-routes-2.txt
-  55 : japan2000.txt
-  56 : minos01.txt
-  57 : opd102.txt
-  58 : robofest-2016-final.txt
-  59 : bug.txt
-  60 : sd1p02.txt
-  61 : us86x.txt
-  62 : sd2p01.txt
-  63 : kw-1.txt
-  64 : uk2011follower-final.txt
-  65 : APEC2017.txt
-  66 : uk2012q.txt
-  67 : uk2008final.txt
-  68 : kilnew.txt
-  69 : supo1.txt
-  70 : uk1987f.txt
-  71 : boston.txt
-  72 : show.txt
-  73 : uk2009q.txt
-  74 : map1.txt
-  75 : uk2005f.txt
-  76 : japan1988a.txt
-  77 : hitel52.txt
-  78 : sd3p01.txt
-  79 : 13ye.txt
-  80 : sd2p02.txt
-  81 : seoul2.txt
-  82 : apec2018.txt
-  83 : song-2.txt
-  84 : japan1997.txt
-  85 : map-y5-2.txt
-  86 : beam94b.txt
-  87 : japan2004.txt
-  88 : tor91.txt
-  89 : ocd104.txt
-  90 : minos10f.txt
-  91 : maze06.txt
-  92 : japan1992.txt
-  93 : sd1f01.txt
-  94 : minos01w.txt
-  95 : chi86.txt
-  96 : uk2002f.txt
-  97 : UK-robofest-NOV-2015-MAZE-A.txt
-  98 : us96.txt
-  99 : sg88.txt
- 100 : v-supo.txt
- 101 : c00d1f.txt
- 102 : ijcf02.txt
- 103 : japan-2014-maze-finals.txt
- 104 : c00d1p.txt
- 105 : 3path_test.txt
- 106 : training-maze-test2.txt
- 107 : test3.txt
- 108 : minos12f.txt
- 109 : ocd204.txt
- 110 : apec2009.txt
- 111 : japan10.txt
- 112 : japan2000ef.txt
- 113 : japan1987stu.txt
- 114 : apec2014.txt
- 115 : hitel95.txt
- 116 : mtest.txt
- 117 : map-y5-3.txt
- 118 : sy15.txt
- 119 : japan2012-ef.txt
- 120 : minos03.txt
- 121 : uk2005q.txt
- 122 : uk2011f.txt
- 123 : minimaze.txt
- 124 : ies91.txt
- 125 : japan2012-eq.txt
- 126 : niigata03.txt
- 127 : uk1989f.txt
- 128 : robotic-2011-follower-finals.txt
- 129 : robofest-2015.txt
- 130 : kw-2.txt
- 131 : japan1990.txt
- 132 : 5x5_test4.txt
- 133 : sec93.txt
- 134 : UK2016-heat.txt
- 135 : hk90.txt
- 136 : uk2015f.txt
- 137 : vm1.txt
- 138 : ies90f.txt
- 139 : cut.txt
- 140 : korea94x.txt
- 141 : sd1f04.txt
- 142 : sd1p04.txt
- 143 : training-maze-test1.txt
- 144 : japan-2011-finals.txt
- 145 : kor89.txt
- 146 : map-v1.txt
- 147 : apec2011.txt
- 148 : map-s3.txt
- 149 : us99.txt
- 150 : sd3p02.txt
- 151 : map-g1.txt
- 152 : Porto2017.txt
- 153 : us01.txt
- 154 : japan1989.txt
- 155 : 90tor.txt
- 156 : 87us1.txt
- 157 : song-1.txt
- 158 : japan1998f.txt
- 159 : uk-techfets-2017-final.txt
- 160 : map-y4-2.txt
- 161 : 2003kantou.txt
- 162 : sq89su.txt
- 163 : japan2.txt
- 164 : uk2006f.txt
- 165 : taiwan-2011-final.txt
- 166 : minos11.txt
- 167 : chochi.txt
- 168 : empty.txt
- 169 : taiwan-2011-practice-maze.txt
- 170 : dame.txt
- 171 : test2.txt
- 172 : map-g4.txt
- 173 : hk91q.txt
- 174 : uk2010follower.txt
- 175 : japan1994ef.txt
- 176 : uk1991f.txt
- 177 : jc93.txt
- 178 : zigzag.txt
- 179 : japan1983.txt
- 180 : map-v9.txt
- 181 : yama7.txt
- 182 : 5x5_test1.txt
- 183 : japan11.txt
- 184 : us86.txt
- 185 : japan2007eq.txt
- 186 : japan-2015-EQ.txt
- 187 : kyushu-2017.txt
- 188 : a.txt
- 189 : uk2001f.txt
- 190 : nagoya2002.txt
- 191 : sd2f02.txt
- 192 : bon13.txt
- 193 : japan2001.txt
- 194 : japan1991q.txt
- 195 : map-y77.txt
- 196 : sec91.txt
- 197 : japan1988.txt
- 198 : kwu2.txt
- 199 : uk1990f.txt
- 200 : sd3f04.txt
- 201 : map-y6.txt
- 202 : uk2008f.txt
- 203 : opd202.txt
- 204 : c00d3f.txt
- 205 : map-y4-1.txt
- 206 : 2003kankou.txt
- 207 : torture.txt
- 208 : tic05followersheats.txt
- 209 : 88us.txt
- 210 : robotic-2011-solver-finals.txt
- 211 : 5x5.txt
- 212 : xx.txt
- 213 : wmmc-v2.txt
- 214 : uk1989q.txt
- 215 : map-v5.txt
- 216 : sd1f02.txt
- 217 : museum.txt
- 218 : 5x5_test2.txt
- 219 : c00d2f.txt
- 220 : uk2000f.txt
- 221 : 100.txt
- 222 : ph002.txt
- 223 : Taiwan2017.txt
- 224 : hoku4.txt
- 225 : japan2001ef.txt
- 226 : 87sin.txt
- 227 : japan2007ef.txt
- 228 : japan2005f.txt
- 229 : yama2002.txt
- 230 : euro-v58.txt
- 231 : c00d2p.txt
- 232 : kirei.txt
- 233 : kirei2.txt
- 234 : map-g3.txt
- 235 : japan95.txt
- 236 : Porto2017-final.txt
- 237 : uk2009f.txt
- 238 : uk2003q.txt
- 239 : mc-meiro-2015.txt
- 240 : training-maze-test3.txt
- 241 : japan2009eq.txt
- 242 : japan2009ef.txt
- 243 : map-y4-4.txt
- 244 : supo4.txt
- 245 : supo3.txt
- 246 : japan4.txt
- 247 : higashi-2017.txt
- 248 : sunkai.txt
- 249 : 59.txt
- 250 : maze04.txt
- 251 : zigzag3.txt
- 252 : uk2013.txt
- 253 : mj96bon.txt
- 254 : robotic-2009-final.txt
- 255 : c00jcp.txt
- 256 : map-e5.txt
- 257 : ocd201.txt
- 258 : kor88.txt
- 259 : noloop2.txt
- 260 : taiwan-2009.txt
- 261 : map-e7.txt
- 262 : map-y5-4.txt
- 263 : minos09f.txt
- 264 : maze08.txt
- 265 : apec2013.txt
- 266 : Taiwan-2016-maze.txt
- 267 : koh.txt
- 268 : c00od1.txt
- 269 : diagonals.txt
- 270 : hitel.txt
- 271 : japan2017ef.txt
- 272 : taiwan-2014-final.txt
- 273 : kyot-89.txt
- 274 : mr6.txt
- 275 : uk1989.txt
- 276 : usa-2.txt
- 277 : us-1.txt
- 278 : japan1986.txt
- 279 : kor92.txt
- 280 : japan2002ef.txt
- 281 : us83.txt
- 282 : m93-1.txt
- 283 : UK-NOV-2015-MAZE-B.txt
- 284 : taisho.txt
- 285 : uk2010f.txt
- 286 : apec2010.txt
- 287 : japan2003.txt
- 288 : japan13.txt
- 289 : 11simple.txt
- 290 : japan2017eq.txt
- 291 : uk2003f.txt
- 292 : japan-2011-freshman-final.txt
- 293 : kwu1.txt
- 294 : sd2p04.txt
- 295 : Japan2013ef.txt
- 296 : map-3.txt
- 297 : 1stworld.txt
- 298 : UK-NOV-2017.txt
- 299 : supo2.txt
- 300 : robotic-2010-heats.txt
- 301 : uk2014f.txt
- 302 : sundo-1.txt
- 303 : minos14.txt
- 304 : jcf01.txt
- 305 : map-2.txt
- 306 : lee.txt
- 307 : japan1997eq.txt
- 308 : japan1997f.txt
- 309 : us89.txt
- 310 : Kansai2017.txt
- 311 : gen.txt
- 312 : jcf04.txt
- 313 : sd3f02.txt
- 314 : maze-train-10x5-a.txt
- 315 : iee88.txt
- 316 : kpnu1.txt
- 317 : uk-techfets-2017-heat.txt
- 318 : japan-2014-maze-qual.txt
- 319 : sd2f01.txt
- 320 : jcp91.txt
- 321 : vm3.txt
- 322 : wmmc-y1.txt
- 323 : japan1995.txt
- 324 : TAIWAN2015-FINALS.txt
- 325 : wmmc-y2.txt
- 326 : quo4.txt
- 327 : beam94a.txt
- 328 : diag2.txt
- 329 : map-y7.txt
- 330 : sizuka.txt
- 331 : japan2002.txt
- 332 : 8x8-practice.txt
- 333 : 111.txt
- 334 : map-y4-3.txt
- 335 : tyubu200906.txt
- 336 : us85.txt
- 337 : sunada.txt
- 338 : uk2008q.txt
- 339 : euro84.txt
- 340 : apec1998.txt
- 341 : taiwan-2013-final.txt
- 342 : yama89.txt
- 343 : loop.txt
- 344 : uk2004f.txt
- 345 : japan-2015-EF.txt
- 346 : 50.txt
- 347 : sd3p04.txt
- 348 : robotic-2011-solver-heats.txt
- 349 : apec1988.txt
- 350 : shiba.txt
- 351 : ph-three-routes-1.txt
- 352 : maze-train-10x5-q.txt
- 353 : uk1992q.txt
- 354 : japan95y.txt
- 355 : solver.txt
- 356 : map-t2.txt
- 357 : japan1994.txt
- 358 : sd2f04.txt
- 359 : uk2011q.txt
- 360 : 58.txt
- 361 : long.txt
- 362 : mont88a.txt
- 363 : robofest-2014-final.txt
- 364 : robofest-2013-final.txt
- 365 : ies91f.txt
- 366 : c00d3p.txt
- 367 : namae.txt
- 368 : maze-train-10x5.txt
- 369 : japan2008ef.txt
- 370 : sg87.txt
- 371 : uk1990q.txt
- 372 : 5x5_test3.txt
- 373 : map-5.txt
- 374 : taiwan-2011-finals-maze.txt
- 375 : uk2007f.txt
- 376 : m93i.txt
- 377 : japan1997p.txt
- 378 : map-y5-1.txt
- 379 : japan-2011-qualifier.txt
- 380 : sd1p01.txt
- 381 : japan1996ef.txt
- 382 : TAIWAN2015-PRACTICE.txt
- 383 : mont88.txt
- 384 : allamerica2013.txt
- 385 : UK2016-final.txt
- 386 : map-6.txt
- 387 : expo93.txt
- 388 : japan1993ef.txt
- 389 : wiggly1.txt
- 390 : map-v2.txt
- 391 : japan1987stud.txt
- 392 : uk1988f.txt
- 393 : sg89.txt
- 394 : c00jcf.txt
- 395 : ies90.txt
- 396 : japan2002a.txt
- 397 : maze05.txt
- 398 : map-s4.txt
- 399 : c00od2.txt
- 400 : us87.txt
- 401 : 88.txt
- 402 : test.txt
- 403 : map-t1.txt
- 404 : minos04f.txt
- 405 : japan1998p.txt
- 406 : japan5.txt
+0000 : us97.txt
+0001 : us91.txt
+0002 : at135.txt
+0003 : ijcp02.txt
+0004 : map-v8.txt
+0005 : 86.txt
+0006 : hk91.txt
+0007 : kilkai.txt
+0008 : maze.txt
+0009 : Japan2013eq.txt
+0010 : robotic-2010-finals.txt
+0011 : robotic-2011-follower-heats.txt
+0012 : us88.txt
+0013 : minos08f.txt
+0014 : taiwan-2012-final.txt
+0015 : map-1.txt
+0016 : uk2012f.txt
+0017 : shi.txt
+0018 : us93.txt
+0019 : ocd101.txt
+0020 : shi2.txt
+0021 : uk1992f.txt
+0022 : tricky.txt
+0023 : hitel51.txt
+0024 : uk2010q.txt
+0025 : kor931.txt
+0026 : us82.txt
+0027 : soulu3.txt
+0028 : japan1991.txt
+0029 : vm2.txt
+0030 : ph001.txt
+0031 : test1.txt
+0032 : minos04q.txt
+0033 : minos03f.txt
+0034 : minos02.txt
+0035 : killer.txt
+0036 : euro-58.txt
+0037 : jcp04.txt
+0038 : shikai.txt
+0039 : japan1999f.txt
+0040 : sd3f01.txt
+0041 : japan-9p.txt
+0042 : sing89i.txt
+0043 : shima1.txt
+0044 : japan-2016-eq.txt
+0045 : chubu2017.txt
+0046 : map-4.txt
+0047 : 92bos.txt
+0048 : apec2016.txt
+0049 : japan1999p.txt
+0050 : japan-2016-ef.txt
+0051 : kor891.txt
+0052 : us02.txt
+0053 : APEC2012.txt
+0054 : ph-three-routes-2.txt
+0055 : japan2000.txt
+0056 : minos01.txt
+0057 : opd102.txt
+0058 : robofest-2016-final.txt
+0059 : bug.txt
+0060 : sd1p02.txt
+0061 : us86x.txt
+0062 : sd2p01.txt
+0063 : kw-1.txt
+0064 : uk2011follower-final.txt
+0065 : APEC2017.txt
+0066 : uk2012q.txt
+0067 : uk2008final.txt
+0068 : kilnew.txt
+0069 : supo1.txt
+0070 : uk1987f.txt
+0071 : boston.txt
+0072 : show.txt
+0073 : uk2009q.txt
+0074 : map1.txt
+0075 : uk2005f.txt
+0076 : japan1988a.txt
+0077 : hitel52.txt
+0078 : sd3p01.txt
+0079 : 13ye.txt
+0080 : sd2p02.txt
+0081 : seoul2.txt
+0082 : apec2018.txt
+0083 : song-2.txt
+0084 : japan1997.txt
+0085 : map-y5-2.txt
+0086 : beam94b.txt
+0087 : japan2004.txt
+0088 : tor91.txt
+0089 : ocd104.txt
+0090 : minos10f.txt
+0091 : maze06.txt
+0092 : japan1992.txt
+0093 : sd1f01.txt
+0094 : minos01w.txt
+0095 : chi86.txt
+0096 : uk2002f.txt
+0097 : UK-robofest-NOV-2015-MAZE-A.txt
+0098 : us96.txt
+0099 : sg88.txt
+0100 : v-supo.txt
+0101 : c00d1f.txt
+0102 : ijcf02.txt
+0103 : japan-2014-maze-finals.txt
+0104 : c00d1p.txt
+0105 : 3path_test.txt
+0106 : training-maze-test2.txt
+0107 : test3.txt
+0108 : minos12f.txt
+0109 : ocd204.txt
+0110 : apec2009.txt
+0111 : japan10.txt
+0112 : japan2000ef.txt
+0113 : japan1987stu.txt
+0114 : apec2014.txt
+0115 : hitel95.txt
+0116 : mtest.txt
+0117 : map-y5-3.txt
+0118 : sy15.txt
+0119 : japan2012-ef.txt
+0120 : minos03.txt
+0121 : uk2005q.txt
+0122 : uk2011f.txt
+0123 : minimaze.txt
+0124 : ies91.txt
+0125 : japan2012-eq.txt
+0126 : niigata03.txt
+0127 : uk1989f.txt
+0128 : robotic-2011-follower-finals.txt
+0129 : robofest-2015.txt
+0130 : kw-2.txt
+0131 : japan1990.txt
+0132 : 5x5_test4.txt
+0133 : sec93.txt
+0134 : UK2016-heat.txt
+0135 : hk90.txt
+0136 : uk2015f.txt
+0137 : vm1.txt
+0138 : ies90f.txt
+0139 : cut.txt
+0140 : korea94x.txt
+0141 : sd1f04.txt
+0142 : sd1p04.txt
+0143 : training-maze-test1.txt
+0144 : japan-2011-finals.txt
+0145 : kor89.txt
+0146 : map-v1.txt
+0147 : apec2011.txt
+0148 : map-s3.txt
+0149 : us99.txt
+0150 : sd3p02.txt
+0151 : map-g1.txt
+0152 : Porto2017.txt
+0153 : us01.txt
+0154 : japan1989.txt
+0155 : 90tor.txt
+0156 : 87us1.txt
+0157 : song-1.txt
+0158 : japan1998f.txt
+0159 : uk-techfets-2017-final.txt
+0160 : map-y4-2.txt
+0161 : 2003kantou.txt
+0162 : sq89su.txt
+0163 : japan2.txt
+0164 : uk2006f.txt
+0165 : taiwan-2011-final.txt
+0166 : minos11.txt
+0167 : chochi.txt
+0168 : empty.txt
+0169 : taiwan-2011-practice-maze.txt
+0170 : dame.txt
+0171 : test2.txt
+0172 : map-g4.txt
+0173 : hk91q.txt
+0174 : uk2010follower.txt
+0175 : japan1994ef.txt
+0176 : uk1991f.txt
+0177 : jc93.txt
+0178 : zigzag.txt
+0179 : japan1983.txt
+0180 : map-v9.txt
+0181 : yama7.txt
+0182 : 5x5_test1.txt
+0183 : japan11.txt
+0184 : us86.txt
+0185 : japan2007eq.txt
+0186 : japan-2015-EQ.txt
+0187 : kyushu-2017.txt
+0188 : a.txt
+0189 : uk2001f.txt
+0190 : nagoya2002.txt
+0191 : sd2f02.txt
+0192 : bon13.txt
+0193 : japan2001.txt
+0194 : japan1991q.txt
+0195 : map-y77.txt
+0196 : sec91.txt
+0197 : japan1988.txt
+0198 : kwu2.txt
+0199 : uk1990f.txt
+0200 : sd3f04.txt
+0201 : map-y6.txt
+0202 : uk2008f.txt
+0203 : opd202.txt
+0204 : c00d3f.txt
+0205 : map-y4-1.txt
+0206 : 2003kankou.txt
+0207 : torture.txt
+0208 : tic05followersheats.txt
+0209 : 88us.txt
+0210 : robotic-2011-solver-finals.txt
+0211 : 5x5.txt
+0212 : xx.txt
+0213 : wmmc-v2.txt
+0214 : uk1989q.txt
+0215 : map-v5.txt
+0216 : sd1f02.txt
+0217 : museum.txt
+0218 : 5x5_test2.txt
+0219 : c00d2f.txt
+0220 : uk2000f.txt
+0221 : 100.txt
+0222 : ph002.txt
+0223 : Taiwan2017.txt
+0224 : hoku4.txt
+0225 : japan2001ef.txt
+0226 : 87sin.txt
+0227 : japan2007ef.txt
+0228 : japan2005f.txt
+0229 : yama2002.txt
+0230 : euro-v58.txt
+0231 : c00d2p.txt
+0232 : kirei.txt
+0233 : kirei2.txt
+0234 : map-g3.txt
+0235 : japan95.txt
+0236 : Porto2017-final.txt
+0237 : uk2009f.txt
+0238 : uk2003q.txt
+0239 : mc-meiro-2015.txt
+0240 : training-maze-test3.txt
+0241 : japan2009eq.txt
+0242 : japan2009ef.txt
+0243 : map-y4-4.txt
+0244 : supo4.txt
+0245 : supo3.txt
+0246 : japan4.txt
+0247 : higashi-2017.txt
+0248 : sunkai.txt
+0249 : 59.txt
+0250 : maze04.txt
+0251 : zigzag3.txt
+0252 : uk2013.txt
+0253 : mj96bon.txt
+0254 : robotic-2009-final.txt
+0255 : c00jcp.txt
+0256 : map-e5.txt
+0257 : ocd201.txt
+0258 : kor88.txt
+0259 : noloop2.txt
+0260 : taiwan-2009.txt
+0261 : map-e7.txt
+0262 : map-y5-4.txt
+0263 : minos09f.txt
+0264 : maze08.txt
+0265 : apec2013.txt
+0266 : Taiwan-2016-maze.txt
+0267 : koh.txt
+0268 : c00od1.txt
+0269 : diagonals.txt
+0270 : hitel.txt
+0271 : japan2017ef.txt
+0272 : taiwan-2014-final.txt
+0273 : kyot-89.txt
+0274 : mr6.txt
+0275 : uk1989.txt
+0276 : usa-2.txt
+0277 : us-1.txt
+0278 : japan1986.txt
+0279 : kor92.txt
+0280 : japan2002ef.txt
+0281 : us83.txt
+0282 : m93-1.txt
+0283 : UK-NOV-2015-MAZE-B.txt
+0284 : taisho.txt
+0285 : uk2010f.txt
+0286 : apec2010.txt
+0287 : japan2003.txt
+0288 : japan13.txt
+0289 : 11simple.txt
+0290 : japan2017eq.txt
+0291 : uk2003f.txt
+0292 : japan-2011-freshman-final.txt
+0293 : kwu1.txt
+0294 : sd2p04.txt
+0295 : Japan2013ef.txt
+0296 : map-3.txt
+0297 : 1stworld.txt
+0298 : UK-NOV-2017.txt
+0299 : supo2.txt
+0300 : robotic-2010-heats.txt
+0301 : uk2014f.txt
+0302 : sundo-1.txt
+0303 : minos14.txt
+0304 : jcf01.txt
+0305 : map-2.txt
+0306 : lee.txt
+0307 : japan1997eq.txt
+0308 : japan1997f.txt
+0309 : us89.txt
+0310 : Kansai2017.txt
+0311 : gen.txt
+0312 : jcf04.txt
+0313 : sd3f02.txt
+0314 : maze-train-10x5-a.txt
+0315 : iee88.txt
+0316 : kpnu1.txt
+0317 : uk-techfets-2017-heat.txt
+0318 : japan-2014-maze-qual.txt
+0319 : sd2f01.txt
+0320 : jcp91.txt
+0321 : vm3.txt
+0322 : wmmc-y1.txt
+0323 : japan1995.txt
+0324 : TAIWAN2015-FINALS.txt
+0325 : wmmc-y2.txt
+0326 : quo4.txt
+0327 : beam94a.txt
+0328 : diag2.txt
+0329 : map-y7.txt
+0330 : sizuka.txt
+0331 : japan2002.txt
+0332 : 8x8-practice.txt
+0333 : 111.txt
+0334 : map-y4-3.txt
+0335 : tyubu200906.txt
+0336 : us85.txt
+0337 : sunada.txt
+0338 : uk2008q.txt
+0339 : euro84.txt
+0340 : apec1998.txt
+0341 : taiwan-2013-final.txt
+0342 : yama89.txt
+0343 : loop.txt
+0344 : uk2004f.txt
+0345 : japan-2015-EF.txt
+0346 : 50.txt
+0347 : sd3p04.txt
+0348 : robotic-2011-solver-heats.txt
+0349 : apec1988.txt
+0350 : shiba.txt
+0351 : ph-three-routes-1.txt
+0352 : maze-train-10x5-q.txt
+0353 : uk1992q.txt
+0354 : japan95y.txt
+0355 : solver.txt
+0356 : map-t2.txt
+0357 : japan1994.txt
+0358 : sd2f04.txt
+0359 : uk2011q.txt
+0360 : 58.txt
+0361 : long.txt
+0362 : mont88a.txt
+0363 : robofest-2014-final.txt
+0364 : robofest-2013-final.txt
+0365 : ies91f.txt
+0366 : c00d3p.txt
+0367 : namae.txt
+0368 : maze-train-10x5.txt
+0369 : japan2008ef.txt
+0370 : sg87.txt
+0371 : uk1990q.txt
+0372 : 5x5_test3.txt
+0373 : map-5.txt
+0374 : taiwan-2011-finals-maze.txt
+0375 : uk2007f.txt
+0376 : m93i.txt
+0377 : japan1997p.txt
+0378 : map-y5-1.txt
+0379 : japan-2011-qualifier.txt
+0380 : sd1p01.txt
+0381 : japan1996ef.txt
+0382 : TAIWAN2015-PRACTICE.txt
+0383 : mont88.txt
+0384 : allamerica2013.txt
+0385 : UK2016-final.txt
+0386 : map-6.txt
+0387 : expo93.txt
+0388 : japan1993ef.txt
+0389 : wiggly1.txt
+0390 : map-v2.txt
+0391 : japan1987stud.txt
+0392 : uk1988f.txt
+0393 : sg89.txt
+0394 : c00jcf.txt
+0395 : ies90.txt
+0396 : japan2002a.txt
+0397 : maze05.txt
+0398 : map-s4.txt
+0399 : c00od2.txt
+0400 : us87.txt
+0401 : 88.txt
+0402 : test.txt
+0403 : map-t1.txt
+0404 : minos04f.txt
+0405 : japan1998p.txt
+0406 : japan5.txt
